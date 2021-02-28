@@ -1,0 +1,26 @@
+{
+    "name": "@mphpmaster/laravel-traits-has",
+    "version": "0.1.0",
+    "description": "Laravel Helpers: Traits Has",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mPhpMaster/laravel-traits-has.git"
+    },
+    "keywords": [
+        "laravel",
+        "helpers"
+    ],
+    "author": "mPhpMaster",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mPhpMaster/laravel-traits-has/issues"
+    },
+    "homepage": "https://github.com/mPhpMaster/laravel-traits-has#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
+}

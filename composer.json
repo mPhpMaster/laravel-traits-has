@@ -1,0 +1,36 @@
+{
+    "name": "mphpmaster/laravel-traits-has",
+    "description": "Laravel Helpers: Traits Has",
+    "type": "library",
+    "keywords": ["helpers", "laravel", "traits", "php"],
+    "require": {
+        "php": ">=7.4",
+        "laravel/framework": ">=5.8",
+        "laravel/helpers": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mPhpMaster",
+            "email": "59211285+mPhpMaster@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mPhpMaster\\LaravelTraitsHas\\": "src/"
+        },
+        "files": [
+            "src/Helpers/Functions.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HelpersProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "scripts": {
+    }
+}
