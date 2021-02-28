@@ -38,4 +38,4 @@
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-The Laravel Helpers: Traits Has is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel Helpers: Traits Has is open-sourced software licensed under the [MIT license](https://github.com/mPhpMaster/laravel-traits-has/blob/master/LICENSE).
